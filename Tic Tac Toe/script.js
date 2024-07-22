@@ -33,7 +33,7 @@ resetButton.addEventListener("click", () => {
   });
 });
 
-// WIN CHANCES  ARRAY
+// WIN CHANCES ARRAY
 
 let turnO = true; //player O = True
 const winPatterns = [
