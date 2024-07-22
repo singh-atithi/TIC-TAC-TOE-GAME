@@ -24,7 +24,7 @@ newgame.addEventListener("click", () => {
   }
 });
 
-// RESET BUTTON FUNCTIONS
+// RESET  BUTTON  FUNCTIONS
 
 resetButton.addEventListener("click", () => {
   boxes.forEach((box) => {
