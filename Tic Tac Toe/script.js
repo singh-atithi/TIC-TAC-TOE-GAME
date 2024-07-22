@@ -23,6 +23,7 @@ newgame.addEventListener("click", () => {
     resetButton.style.visibility = "visible";
   }
 });
+
 // RESET BUTTON FUNCTIONS
 
 resetButton.addEventListener("click", () => {
